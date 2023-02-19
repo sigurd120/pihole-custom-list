@@ -3,7 +3,7 @@
 0.0.0.0 g.doubleclick.net
 0.0.0.0 ^pagead[0-9].googlesyndication.com$
 0.0.0.0 pbs.relevant-digital.com
-0.0.0.0 adnxs-simple.com
+0.0.0.0 [a-z0-9]+.adnxs-simple.com
 0.0.0.0 adnxs.com
 0.0.0.0 adform.net 
 0.0.0.0 2mdn.net
